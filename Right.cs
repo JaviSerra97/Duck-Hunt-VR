@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class right : MonoBehaviour {
+public class Right : MonoBehaviour {
     public float moveSpeed;
     private Vector2 rot;
     // Use this for initialization
