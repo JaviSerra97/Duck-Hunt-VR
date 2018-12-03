@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class left : MonoBehaviour {
+public class Left : MonoBehaviour {
     public float moveSpeed;
     // Use this for initialization
     
