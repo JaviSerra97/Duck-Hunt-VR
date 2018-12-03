@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class duck : MonoBehaviour {
+public class Duck : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
