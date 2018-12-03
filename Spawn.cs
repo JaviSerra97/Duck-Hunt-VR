@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class spawn : MonoBehaviour {
+public class Spawn : MonoBehaviour {
     private float lastSpawnTime;
     public float spawnInterval;
     public GameObject[] duckArray;
